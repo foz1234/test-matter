@@ -1,16 +1,33 @@
-http://movpod.in/n2i40oqlgipg<poster>Test</poster>
+<poster>Test</poster>
 <fanart>http://upload.wikimedia.org/wikipedia/en/5/52/Testcard_F.jpg</fanart>
 <thumbnail>http://i.dailymail.co.uk/i/pix/2009/05/07/article-1177908-04D5DD58000005DC-623_468x742.jpg</thumbnail>
 
 
+<item>
+<title>FRESH PRINCE OF BEL AIR</title>
+<link>rtmp://192.99.38.122/app playpath=freshprince02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?freshprince01</link>
+<thumbnail>http://fanart.tv/fanart/tv/76738/tvthumb/TheFreshPrinceofBelAir-76738.png</thumbnail>
+</item>
+
+
+
+ 
+<item>
+<title>[B][COLOR aqua]THE SIMPSONS[/COLOR][/B]</title>
+<thumbnail>http://fanart.tv/fanart/tv/71663/tvthumb/the-simpsons-516e91f89377e.jpg</thumbnail>
+<fanart></fanart>
+<link>rtmp://198.27.75.99/app playpath=2502 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab2.php?2502 live=1 timeout=10</link>
+</item>
 
 
 
 
-
-
-
-
+<item>
+<title>[B][COLOR aqua]AMERICAN DAD[/COLOR][/B]</title>
+<thumbnail>http://fanart.tv/fanart/tv/73141/tvthumb/AmericanDad-73141-2.png</thumbnail>
+<fanart></fanart>
+<link>rtmp://192.99.38.122/app playpath=americandad02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?americandad01</link>
+</item>
 
 
 
