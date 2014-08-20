@@ -17,6 +17,21 @@
 <thumbnail>http://image.tmdb.org/t/p/w396/7siPHrw0QBNRXfzuL8lEF5rudh6.jpg</thumbnail>
 </item>
 
+<item>
+				<title>Orange Sports</title>
+				<link>mms://livewm.orange.fr/live-multicanaux</link>
+				<thumbnail>http://images3.wikia.nocookie.net/__cb20101221223235/logopedia/images/b/b6/Orange_Sport.png</thumbnail>
+			</item>
+			<item>
+				<title>Orange Sports event 1</title>
+				<link>mms://livewm.orange.fr/direct-evenementiels</link>
+				<thumbnail>http://images3.wikia.nocookie.net/__cb20101221223235/logopedia/images/b/b6/Orange_Sport.png</thumbnail>
+			</item>
+			<item>
+				<title>Orange Sports event 2</title>
+				<link>mms://livewm.orange.fr/direct-evenementiels2</link>
+				<thumbnail>http://images3.wikia.nocookie.net/__cb20101221223235/logopedia/images/b/b6/Orange_Sport.png</thumbnail>
+			</item>
 
 
 
