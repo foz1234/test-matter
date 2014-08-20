@@ -18,19 +18,19 @@
 </item>
 
 
-
-
-
-
-
-
-
 <item>
-<title>Premier Sports</title> 
+<title>[COLOR ff6aa84f]EUROSPORT HD[/COLOR]</title>
+<link>http://149.255.39.122/aasd/8814/index.m3u8</link>
 <thumbnail></thumbnail>
-<link>rtmp://89.248.171.97:443/liverepeater playpath=77 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://xxcast.pm/player3.php?id=20&width=640&height=460 token=#atd%#$ZH
-</link>
-<item> 
+</item>
+
+
+
+
+
+
+
+
 
 <item>
 <title></title> 
