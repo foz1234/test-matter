@@ -47,7 +47,7 @@
 <thumbnail></thumbnail>
 <link>
 <sublink></sublink>
-<sublink>rtmp://$OPT:rtmp-raw=rtmpe://46.246.124.13:1935/redirect playpath=BST10 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
+<sublink>rtmp-raw=rtmpe://46.246.124.13:1935/redirect playpath=BST10 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
 </link>
 </item>
 
