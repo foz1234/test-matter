@@ -46,8 +46,8 @@
 <title>test</title>
 <thumbnail></thumbnail>
 <link>
-<sublink></sublink>
-<sublink>http://www.teledunet.com/tv_/?channel=bein_sport_8</sublink>
+<sublink>rtmp://195.154.220.115:1935/private/bt12014</sublink>
+<sublink>rtmp://195.154.220.115:1935/private/espnuk</sublink>
 </link>
 </item>
 
