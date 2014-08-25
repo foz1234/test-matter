@@ -26,20 +26,18 @@
 
 
 <item>
-<title> </title> 
-<thumbnail></thumbnail>
-<link></link>
+<title>UK Gold</title> 
+<thumbnail>http://i2.cdnds.net/09/29/160x120_gold_logo.jpg</thumbnail>
+<link>rtmp://77.81.98.138/liverepeat playpath=rissa swfUrl=http://www.curtirtv.net/plyer.swf live=1 pageUrl=http://abcast.biz/embed.php?file=rissa&width=650&height=435</link>
 <item>
 
 
 
-
-
-
 <item>
-<title>SportTime 1 HD </title> 
+<title>MUTV </title> 
 <thumbnail></thumbnail>
-<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_1200</link>
+<link>rtmp://206.190.140.100:443/liverepeater playpath=30 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://thesun.pw/player2.php?id=30&width=640&height=460 token=#atd%#$ZH
+</link>
 <item> 
 
 <item>
