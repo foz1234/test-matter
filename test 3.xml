@@ -34,18 +34,17 @@
 
 
 <item>
-<title>MUTV </title> 
+<title></title> 
 <thumbnail></thumbnail>
-<link>rtmp://206.190.140.100:443/liverepeater playpath=30 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://thesun.pw/player2.php?id=30&width=640&height=460 token=#atd%#$ZH
-</link>
+<link></link>
 <item> 
 
 <item>
-<title>test</title>
+<title></title>
 <thumbnail></thumbnail>
 <link>
-<sublink>rtmp://195.154.220.115:1935/private/bt12014</sublink>
-<sublink>rtmp://195.154.220.115:1935/private/espnuk</sublink>
+<sublink></sublink>
+<sublink></sublink>
 </link>
 </item>
 
