@@ -7,7 +7,7 @@
 <title>iptv xxx</title>
 <thumbnail></thumbnail>
 <link>
-<sublink>http://78.155.217.50:9090/udp/224.200.202.213:1234</sublink>
+<sublink>rtmp://$OPT:rtmp-raw=rtmpe://46.246.124.39:1935/redirect playpath=BST1 pageUrl=http://www.hdcast.org</sublink>
 <sublink></sublink>
 </link>
 </item>
