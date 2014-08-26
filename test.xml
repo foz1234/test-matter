@@ -37,3 +37,29 @@
 <link>rtmp://192.99.38.122/app playpath=familyguy02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?familyguy01</link>
 </item>
  
+
+
+<item>
+<title>TV3 SPORT 1</title>
+<link>http://viasatlive1-i.akamaihd.net/hls/live/207015/tv3sport1HD/2TmY8fEdOfL.m3u8</link>
+<thumbnail>http://www.flccathletics.com/sports/msoc/2011-12/photos/0001/iStock_000001727315Medium.jpg</thumbnail>
+</item>
+
+<item>
+<title>TV3 SPORT 2</title>
+<link>http://viasatlive5-i.akamaihd.net/hls/live/207018/tv3sport2HD/2h5416erG1v.m3u8</link>
+<thumbnail>http://www.flccathletics.com/sports/msoc/2011-12/photos/0001/iStock_000001727315Medium.jpg</thumbnail>
+</item>
+
+<item>
+<title>SPORT 3</title>
+<link>http://viasatlive2-i.akamaihd.net/hls/live/202775/tv3plus/mastererki1.m3u8</link>
+<thumbnail>http://www.flccathletics.com/sports/msoc/2011-12/photos/0001/iStock_000001727315Medium.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Sport 4</title>
+<link>http://viasatlive1-i.akamaihd.net/hls/live/206922/canal8dkebs/4arp.m3u8</link>
+<thumbnail>http://www.flccathletics.com/sports/msoc/2011-12/photos/0001/iStock_000001727315Medium.jpg</thumbnail>
+</item>
