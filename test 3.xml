@@ -46,7 +46,7 @@ http://gdata.youtube.com/feeds/api/playlists/PLn-mouasam6zXxoyjvncM4AKph8RNBLiz
 <item>
 <title>youtube test</title> 
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/5/52/Testcard_F.jpg</thumbnail>
-<link>http://gdata.youtube.com/feeds/api/playlists/PLn-mouasam6zXxoyjvncM4AKph8RNBLiz</link>
+<link>http://gdata.youtube.com/feeds/api/videos?q=PLn-mouasam6zXxoyjvncM4AKph8RNBLiz</link>
 </item>
 
 
