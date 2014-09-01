@@ -7,7 +7,7 @@
 <title>Disney</title>
 <thumbnail></thumbnail>
 <link>
-<sublink>rtmp://93.174.93.29:443/liverepeater</sublink>
+<sublink>rtmpe://209.95.34.60:1935/live playpath=jsc12 swfUrl=http://www.hdcast.org/players.swf</sublink>
 <sublink>rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD</sublink>
 </link>
 </item>
