@@ -4,11 +4,11 @@
 <thumbnail>http://i.dailymail.co.uk/i/pix/2009/05/07/article-1177908-04D5DD58000005DC-623_468x742.jpg</thumbnail>
 
 <item>
-<title>FOX</title>
+<title>Disney</title>
 <thumbnail></thumbnail>
 <link>
-<sublink>rtmp://streamer.istreamlive.net/35_137 playpath=esportestv29 swfUrl=http://static.vto.tv/player4.7.swf live=1 pageUrl=http://www.tvnanet.biz/boss/ch29-fox.htm</sublink>
-<sublink>rtmp://fms180.blogtv.com/BlogTV/989469_827999/989469_827999 swfUrl=http://www.blogtv.com/Flash/LiveEmbedPlayer_Gfx.swf swfVfy=true live=true timeout=10 pageUrl=http://tvpc.com/Channel.php?ChannelID=4387</sublink>
+<sublink>rtmp://tv02.hdvnbits.org/live/DisneyHD.stream swfUrl=http://tv.hdvnbits.org/plugins/player.swf live=true pageURL=http://tv.hdvnbits.org/disney-hd.4.html 5;VN - HBO</sublink>
+<sublink></sublink>
 </link>
 </item>
 
