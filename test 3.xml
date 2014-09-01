@@ -64,7 +64,7 @@ http://gdata.youtube.com/feeds/api/playlists/PLn-mouasam6zXxoyjvncM4AKph8RNBLiz
 <title>test live links</title>
 <thumbnail></thumbnail>
 <link>
-<sublink>rtmp://89.248.169.48:4</sublink>
+<sublink>http://mobi3.ibrod.tv:1935/ibusa/disney.stream/media_w782176324_5540.ts</sublink>
 <sublink>rtmp://89.248.169.48:443/liverepeater</sublink>
 <sublink>rtmpe://46.246.124.24:1935/live</sublink>
 <sublink>rtmp://31.220.0.195:1935/live</sublink>
