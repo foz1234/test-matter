@@ -35,13 +35,12 @@
 
 <item>
 <title>UK Gold</title> 
-<thumbnail>http://i2.cdnds.net/09/29/160x120_gold_logo.jpg</thumbnail>
-<link>rtmp://77.81.98.138/liverepeat playpath=rissa swfUrl=http://www.curtirtv.net/plyer.swf live=1 pageUrl=http://abcast.biz/embed.php?file=rissa&width=650&height=435
-</link>
+<thumbnail></thumbnail>
+<link></link>
 <item>
 
 
-http://gdata.youtube.com/feeds/api/playlists/PLn-mouasam6zXxoyjvncM4AKph8RNBLiz
+#http://gdata.youtube.com/feeds/api/playlists/PLn-mouasam6zXxoyjvncM4AKph8RNBLiz
 
 <item>
 <title>youtube test</title> 
@@ -52,9 +51,30 @@ http://gdata.youtube.com/feeds/api/playlists/PLn-mouasam6zXxoyjvncM4AKph8RNBLiz
 
 
 <item>
-<title>Watch 22 Jump Street (2014)</title> 
-<thumbnail>http://www.alluc.to/thumbnails/710903l/22-Jump-Street-2014.jpg</thumbnail>
-<link>http://vidbull.com/1r8sciu1d7f1.html</link>
+<title></title> 
+<thumbnail></thumbnail>
+<link></link>
+<item>
+
+<item>
+<title></title> 
+<thumbnail></thumbnail>
+<link></link>
+<item><item>
+<title>
+</title> 
+<thumbnail></thumbnail>
+<link></link>
+<item>
+<item>
+<title></title> 
+<thumbnail></thumbnail>
+<link></link>
+<item>
+<item>
+<title></title> 
+<thumbnail></thumbnail>
+<link></link>
 <item>
 
 
@@ -64,13 +84,13 @@ http://gdata.youtube.com/feeds/api/playlists/PLn-mouasam6zXxoyjvncM4AKph8RNBLiz
 <title>test live links</title>
 <thumbnail></thumbnail>
 <link>
-<sublink>rtmp://rtmp.ilive.to:1935/app/_definst_/bwbop58ixz281wv</sublink>
-<sublink>rtmpe://89.248.172.52/live/skio4s", BT SPORTS 1 ..rtmpe://89.248.172.52rtmpe://89.248.172.52/live/btt1</sublink>
-<sublink>rtmpe://89.248.172.52rtmpe://89.248.172.52/live/btt1</sublink>
-<sublink>rtmp://31.220.0.195:1935/live</sublink>
-<sublink>rtmp://94.102.51.67:443/liverepeater</sublink>
-<sublink>rtmp://80.82.64.90:443/liverepeater playpath=124 swfUrl=http://static.surk.tv/atdedead.swf</sublink>
-<sublink>rtmp://80.82.64.90:443/liverepeater playpath=124 swfUrl=http://static.surk.tv/atdedead.swf", Sky Sports 5 ..rtmpe://89.248.172.52</sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
 </link>
 </item>
 
