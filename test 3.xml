@@ -41,32 +41,10 @@
 
 
 
-
 <item>
-<title>youtube test</title> 
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/5/52/Testcard_F.jpg</thumbnail>
-<link>http://gdata.youtube.com/feeds/api/playlists/PLaEejBfqAtAHzaVpN-HREt61WxUpu-Q_K</link>
-</item>
-
-
-<item>
-<name>test krankie youtube</name>
-<thumbnail>http://www.bbc.co.uk/cbeebies/babyjake/img/babyjake_slide_main.jpg</thumbnail>
-<link>http://gdata.youtube.com/feeds/api/playlists/PLDC80764C583FACCA</link>
-</item>
-
-
-
-<item>
-<title>test yt</title> 
-<thumbnail>http://www.bbc.co.uk/cbeebies/babyjake/img/babyjake_slide_main.jpg</thumbnail>
-<link>http://gdata.youtube.com/feeds/api/playlists/PLaEejBfqAtAHzaVpN-HREt61WxUpu-Q_K</link>
-</item>
-
-<item>
-<name>TINY PLANETS</name>
- <thumbnail>http://www.nichealot.com/BlueWhaleContent/picture/48Tiny_Planets.JPG</thumbnail>
- <link>http://gdata.youtube.com/feeds/api/playlists/PLaEejBfqAtAEZTjaehAVQEqEKlVAQ7zJ1</link>
+<name>Test Music</name>
+<thumbnail>http://www.nichealot.com/BlueWhaleContent/picture/48Tiny_Planets.JPG</thumbnail>
+<link>http://gdata.youtube.com/feeds/api/playlists/PLaEejBfqAtAEZTjaehAVQEqEKlVAQ7zJ1</link>
 </item>
 
 
