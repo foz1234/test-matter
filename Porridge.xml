@@ -12,7 +12,7 @@
 <message>[CR]</message>
 
 <info>
-<message>[COLOR aqua]* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *[/COLOR]</message>
+<message><message>[B][COLOR ff4a86e8]***[/COLOR] [COLOR ffff0000]Series 1 (1974)[/COLOR] [COLOR ff4a86e8]***[/COLOR][/B]</message></message>
 <thumbnail>dummy</thumbnail>
 </info>
 
@@ -53,10 +53,10 @@
 </item>
  
 <info>
-<message>[COLOR white]* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *[/COLOR]</message>
+<message><message>[B][COLOR ff4a86e8]***[/COLOR] [COLOR ffff0000]Series 2 (1975)[/COLOR] [COLOR ff4a86e8]***[/COLOR][/B]</message></message>
 <thumbnail>dummy</thumbnail>
 </info>
- 
+
 <item>
 <title>2x01 Just Desserts</title>
 <link>http://www.putlocker.com/file/2B802F8696904C4D</link>
@@ -92,11 +92,11 @@
 <link>http://www.putlocker.com/file/2247D7989C586203</link>
 <thumbnail>http://cdn-2.cinemaparadiso.co.uk/070705083849_l.jpg</thumbnail>
 </item>
- 
+
 <info>
-<message>[COLOR white]* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *[/COLOR]</message>
+<message><message>[B][COLOR ff4a86e8]***[/COLOR] [COLOR ffff0000]Christmas specials (1975–1976)[/COLOR] [COLOR ff4a86e8]***[/COLOR][/B]</message></message>
 <thumbnail>dummy</thumbnail>
-</info>
+</info> 
 
 <item>
 <title>Special 1 - No Way Out</title>
@@ -111,10 +111,10 @@
 </item>
 
 <info>
-<message>[COLOR white]* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *[/COLOR]</message>
+<message><message>[B][COLOR ff4a86e8]***[/COLOR] [COLOR ffff0000]Series 3 (1977) [/COLOR] [COLOR ff4a86e8]***[/COLOR][/B]</message></message>
 <thumbnail>dummy</thumbnail>
-</info>
- 
+</info> 
+
 <item>
 <title>3x01 A Storm In A Teacup</title>
 <link>http://www.putlocker.com/file/2DADA532122251A6</link>
