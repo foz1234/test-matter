@@ -16,6 +16,8 @@
 
 <message><message>[B][COLOR ff4a86e8]***[/COLOR] [COLOR white]Series 1 (1974)[/COLOR] [COLOR ff4a86e8]***[/COLOR][/B]</message></message>
 <thumbnail>dummy</thumbnail>
+<message>[CR]</message>
+<thumbnail>dummy</thumbnail>
 </info>
 
 <item>
@@ -53,6 +55,9 @@
 <link>http://www.putlocker.com/file/A00C7E82FB652725</link>
 <thumbnail>http://ecx.images-amazon.com/images/I/4157ZS5S06L.jpg</thumbnail>
 </item>
+
+<message>[CR]</message>
+<thumbnail>dummy</thumbnail>
  
 <info>
 <message><message>[B][COLOR ff4a86e8]***[/COLOR] [COLOR white]Series 2 (1975)[/COLOR] [COLOR ff4a86e8]***[/COLOR][/B]</message></message>
@@ -96,6 +101,9 @@
 <thumbnail>http://cdn-2.cinemaparadiso.co.uk/070705083849_l.jpg</thumbnail>
 </item>
 
+<message>[CR]</message>
+<thumbnail>dummy</thumbnail>
+
 <info>
 <message><message>[B][COLOR ff4a86e8]***[/COLOR] [COLOR white]Christmas specials (1975–1976)[/COLOR] [COLOR ff4a86e8]***[/COLOR][/B]</message></message>
 <thumbnail>dummy</thumbnail>
@@ -114,11 +122,15 @@
 <thumbnail>http://cdn-2.cinemaparadiso.co.uk/070705083849_l.jpg</thumbnail>
 </item>
 
+<message>[CR]</message>
+<thumbnail>dummy</thumbnail>
+
 <info>
 <message><message>[B][COLOR ff4a86e8]***[/COLOR] [COLOR white]Series 3 (1977) [/COLOR] [COLOR ff4a86e8]***[/COLOR][/B]</message></message>
 <thumbnail>dummy</thumbnail>
 <message>[CR]</message>
 </info> 
+
 
 <item>
 <title>[COLOR ffff0000]Series 3 (1977)[/COLOR] x01 A Storm In A Teacup</title>
