@@ -14,7 +14,7 @@
 <thumbnail>dummy</thumbnail>
 
 
-<message><message>[B][COLOR ff4a86e8]***[/COLOR] [COLOR ffff0000]Series 1 (1974)[/COLOR] [COLOR ff4a86e8]***[/COLOR][/B]</message></message>
+<message><message>[B][COLOR ff4a86e8]***[/COLOR] [COLOR white]Series 1 (1974)[/COLOR] [COLOR ff4a86e8]***[/COLOR][/B]</message></message>
 <thumbnail>dummy</thumbnail>
 </info>
 
@@ -55,8 +55,9 @@
 </item>
  
 <info>
-<message><message>[B][COLOR ff4a86e8]***[/COLOR] [COLOR ffff0000]Series 2 (1975)[/COLOR] [COLOR ff4a86e8]***[/COLOR][/B]</message></message>
+<message><message>[B][COLOR ff4a86e8]***[/COLOR] [COLOR white]Series 2 (1975)[/COLOR] [COLOR ff4a86e8]***[/COLOR][/B]</message></message>
 <thumbnail>dummy</thumbnail>
+<message>[CR]</message>
 </info>
 
 <item>
@@ -96,8 +97,9 @@
 </item>
 
 <info>
-<message><message>[B][COLOR ff4a86e8]***[/COLOR] [COLOR ffff0000]Christmas specials (1975–1976)[/COLOR] [COLOR ff4a86e8]***[/COLOR][/B]</message></message>
+<message><message>[B][COLOR ff4a86e8]***[/COLOR] [COLOR white]Christmas specials (1975–1976)[/COLOR] [COLOR ff4a86e8]***[/COLOR][/B]</message></message>
 <thumbnail>dummy</thumbnail>
+<message>[CR]</message>
 </info> 
 
 <item>
@@ -113,8 +115,9 @@
 </item>
 
 <info>
-<message><message>[B][COLOR ff4a86e8]***[/COLOR] [COLOR ffff0000]Series 3 (1977) [/COLOR] [COLOR ff4a86e8]***[/COLOR][/B]</message></message>
+<message><message>[B][COLOR ff4a86e8]***[/COLOR] [COLOR white]Series 3 (1977) [/COLOR] [COLOR ff4a86e8]***[/COLOR][/B]</message></message>
 <thumbnail>dummy</thumbnail>
+<message>[CR]</message>
 </info> 
 
 <item>
