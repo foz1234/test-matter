@@ -49,20 +49,23 @@
 
 
 <item>
+<title>Dance Tv</title> 
+<thumbnail>http://b.vimeocdn.com/ps/420/078/4200785_300.jpg</thumbnail>
+<link>mms://onstreaming01.de.gtk.hu/dancetv</link>
+<item>
+
+<item>
+<title>Dance Tv HD</title> 
+<thumbnail>http://www.dancetv.hu/dtvinclub/index_htm_files/49.png</thumbnail>
+<link>http://stream01.gtk.hu/dancetv3</link>
+<item>
+
+<item>
 <title></title> 
 <thumbnail></thumbnail>
 <link></link>
-<item><item>
-<title>
-</title> 
-<thumbnail></thumbnail>
-<link></link>
 <item>
-<item>
-<title></title> 
-<thumbnail></thumbnail>
-<link></link>
-<item>
+
 <item>
 <title></title> 
 <thumbnail></thumbnail>
