@@ -22,7 +22,7 @@
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/5/52/Testcard_F.jpg</thumbnail>
 </dir>
 
-
+#################################################################################################################
 
 <dir>
 <name>[COLOR ff4a86e8][/COLOR][B]Only Fools And Horses[/B]</name>
@@ -36,7 +36,23 @@
 <thumbnail>http://ecx.images-amazon.com/images/I/81uVpZkQWpL._SL1395_.jpg</thumbnail>
 </dir>
 
+<dir>
+<name>The Fast Show [B][COLOR ffff0000]Series 1,2 & 3 + Specials[/COLOR][/B]</name>
+<link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/Fast_Show.xml</link>
+<thumbnail>http://i42.photobucket.com/albums/e317/Driver8_pics/FastShow.jpg</thumbnail>
+</dir>
 
+
+
+#########################################################################################################
+
+<dir>
+<name>[B][COLOR ffff0000]Series 1,2 & 3[/COLOR][/B]</name>
+<link></link>
+<thumbnail></thumbnail>
+</dir>
+
+###########################################################################################################
 
 
 
