@@ -67,12 +67,12 @@
 
 <item>
 <title>test live links</title>
-<thumbnail></thumbnail>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/5/52/Testcard_F.jpg</thumbnail>
 <link>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
+<sublink>http://videomega.tv/iframe.php?ref=WSfUaGFAOe&width=870&height=430%27</sublink>
+<sublink>http://videomega.tv/iframe.php?ref=PKOcYVeBeS&width=870&height=430%27</sublink>
+<sublink>http://videomega.tv/iframe.php?ref=RWXSOaHRDP&width=870&height=430%27</sublink>
+<sublink>http://videomega.tv/iframe.php?ref=SJBWFLLZDb&width=870&height=430%27</sublink>
 <sublink></sublink>
 <sublink></sublink>
 <sublink></sublink>
