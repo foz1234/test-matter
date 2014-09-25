@@ -74,7 +74,7 @@
 <sublink>http://videomega.tv/iframe.php?ref=RWXSOaHRDP&width=870&height=430%27</sublink>
 <sublink>http://videomega.tv/iframe.php?ref=SJBWFLLZDb&width=870&height=430%27</sublink>
 <sublink></sublink>
-<sublink></sublink>
+<sublink>rtmpe://31.220.0.198/live playpath=sky2 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 timeout=13 pageUrl=http://www.pvtserverz.com/ AnisotropicTV</sublink>
 <sublink>rtmp://89.248.169.48:443/liverepeater playpath=84 token=#atd%#$ZH swfUrl=http://static.surk.tv/atdedead.swf live=1 timeout=13 pageUrl=http://filotv.pw/ AnisotropicTV
 </sublink>
 </link>
