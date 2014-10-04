@@ -13,18 +13,6 @@
 </item>
 
 
-<item>
-<title>Wayne's World (1992) </title>
-<link>http://www.watchfreeinhd.com/uVD0Gl</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BNTI2Mjc4NTQyOF5BMl5BanBnXkFtZTgwMzgxMzcxMTE@._V1_SY317_CR0,0,214,317_AL_.jpg</thumbnail>
-</item>
-
-<item>
-<title>Wayne's World 2 (1993)</title>
-<link>http://mightyupload.com/878rr4rqkk6b/waynes_world_2.flv.html</link>
-<thumbnail>http://image.tmdb.org/t/p/w396/7siPHrw0QBNRXfzuL8lEF5rudh6.jpg</thumbnail>
-</item>
-
 
 <item>
 <title>[COLOR ff6aa84f]EUROSPORT HD[/COLOR]</title>
@@ -91,16 +79,78 @@
 </link>
 </item>
 
+############################ test 24/7 ################################
+
+<item>
+<title>AMERICAN DAD</title>
+<thumbnail>http://mediaschool.ohio.edu/Websites/ousmas/images/news_images/american-dad.jpg</thumbnail>
+<link>rtmp://192.99.38.122/app playpath=americandad02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?americandad01</link>
+</item>
+
+<item>
+<title>CHEERS</title>
+<thumbnail>http://cathbacon.files.wordpress.com/2014/01/cheers-2.jpg</thumbnail>
+<link>rtmp://198.27.75.99/app playpath=cheers01 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?cheers01</link>
+</item>
+
+<item>
+<title>GAME OF THRONES</title>
+<thumbnail>http://i.huffpost.com/gen/1697767/thumbs/o-GAME-OF-THRONES-facebook.jpg</thumbnail>
+<link>rtmp://198.27.75.99/app playpath=got02 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv</link>
+</item>
+
+<item>
+<title>FAMILY GUY</title>
+<thumbnail>http://fanart.tv/fanart/tv/75978/tvthumb/F_75978%20(2).jpg</thumbnail>
+<link>rtmp://192.99.38.122/app playpath=familyguy02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?familyguy01</link>
+</item>
+
+<item>
+<title>FRESH PRINCE OF BEL AIR</title>
+<thumbnail>http://hellogiggles.hellogiggles.netdna-cdn.com/wp-content/uploads/2014/06/11/fresh1.jpg</thumbnail>
+<link>rtmp://192.99.38.122/app playpath=freshprince02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?freshprince01</link>
+</item>
+
+<item>
+<title>FRASIER</title>
+<thumbnail>http://images.zap2it.com/tvbanners/h3/AllPhotos/183920/p183920_b_h3_aa/frasier.jpg</thumbnail>
+<link>rtmp://198.27.74.25/app playpath=frasier02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2bg01/</link>
+</item>
+
+<item>
+<title>FRIENDS</title>
+<thumbnail>http://eb-blog-blog.s3.amazonaws.com/wp-content/uploads/friends-tv-show.jpg</thumbnail>
+<link>rtmp://192.99.38.122/app playpath=friends02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?friends01</link>
+</item>
+
+<item>
+<title>FUTURAMA</title>
+<thumbnail>http://www.watchcartoononline.com/thumbs/Futurama-Episode-113--Fry-and-the-Slurm-Factory.jpg</thumbnail>
+<link>rtmp://198.27.75.99/app playpath=2501 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?2501</link>
+</item>
+  
+<item>
+<title>MARRIED WITH CHILDREN</title>
+<thumbnail>http://www.unz.org/CoverMini/Netflix-1987-00157</thumbnail>
+<link>rtmp://198.27.74.25/app playpath=mwc02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex3.php?mwc01</link>
+</item>
+
+<item>
+<title>SOUTH PARK</title>
+<thumbnail>http://fanart.tv/fanart/tv/75897/tvthumb/south-park-4ef13eea8b9e4.jpg</thumbnail>
+<link>rtmp://198.27.74.25/app playpath=southp02 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?southp02</link>
+</item>
+ 
+<item>
+<title>THE SIMPSONS</title>
+<thumbnail>http://fanart.tv/fanart/tv/71663/tvthumb/the-simpsons-516e91f89377e.jpg</thumbnail>
+<link>rtmp://198.27.75.99/app playpath=2502 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab2.php?2502 live=1 timeout=10</link>
+</item>
 
 
 
 
-
-
-
-
-
-
+ 
 
 
 
