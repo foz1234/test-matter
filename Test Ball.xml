@@ -23,7 +23,7 @@
 
 <item>
 <title>sport3</title>
-<link>http://193.232.151.135/hls-live/livepkgr/_1041_/1041/1041-50.m3u8</link>
+<link></link>
 <thumbnail>http://corporate.comcast.com/images/premier-league-slide1.jpg</thumbnail>
 </item>
 
@@ -52,8 +52,8 @@
 </item>
 
 <item>
-<title></title>
-<link></link>
+<title>sport 8</title>
+<link>http://193.232.151.135/hls-live/livepkgr/_1040_/1040/1040-80.m3u8</link>
 <thumbnail>http://corporate.comcast.com/images/premier-league-slide1.jpg</thumbnail>
 </item>
 
@@ -164,6 +164,8 @@
 <link></link>
 <thumbnail>http://corporate.comcast.com/images/premier-league-slide1.jpg</thumbnail>
 </item>
+
+
 
 <item>
 <title>test</title>
