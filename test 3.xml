@@ -6,8 +6,8 @@
 
 <item>
 <name>Test youtube channel</name>
-<thumbnail>http://e2.365dm.com/football/badges/192/210.png</thumbnail>
-<link>http://t.co/fLYa9Y4d2y</link>
+<thumbnail></thumbnail>
+<link></link>
 </item>
 
 
@@ -29,9 +29,9 @@
 </item>
 #############################################################################
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Test youtube channel</title>
+<link>http://t.co/fLYa9Y4d2y</link>
+<thumbnail>http://e2.365dm.com/football/badges/192/210.png</thumbnail>
 </item>
 
 <item>
